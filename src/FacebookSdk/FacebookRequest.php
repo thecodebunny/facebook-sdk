@@ -21,15 +21,15 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Thecodebunny\FacebookSdk\Facebook;
+namespace Thecodebunny\FacebookSdk;
 
-use Facebook\Authentication\AccessToken;
-use Facebook\Url\FacebookUrlManipulator;
-use Facebook\FileUpload\FacebookFile;
-use Facebook\FileUpload\FacebookVideo;
-use Facebook\Http\RequestBodyMultipart;
-use Facebook\Http\RequestBodyUrlEncoded;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Authentication\AccessToken;
+use Thecodebunny\FacebookSdk\Url\FacebookUrlManipulator;
+use Thecodebunny\FacebookSdk\FileUpload\FacebookFile;
+use Thecodebunny\FacebookSdk\FileUpload\FacebookVideo;
+use Thecodebunny\FacebookSdk\Http\RequestBodyMultipart;
+use Thecodebunny\FacebookSdk\Http\RequestBodyUrlEncoded;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class Request

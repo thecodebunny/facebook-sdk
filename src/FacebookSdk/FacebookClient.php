@@ -21,12 +21,12 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Thecodebunny\FacebookSdk\Facebook;
+namespace Thecodebunny\FacebookSdk;
 
-use Facebook\HttpClients\FacebookHttpClientInterface;
-use Facebook\HttpClients\FacebookCurlHttpClient;
-use Facebook\HttpClients\FacebookStreamHttpClient;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\HttpClients\FacebookHttpClientInterface;
+use Thecodebunny\FacebookSdk\HttpClients\FacebookCurlHttpClient;
+use Thecodebunny\FacebookSdk\HttpClients\FacebookStreamHttpClient;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class FacebookClient

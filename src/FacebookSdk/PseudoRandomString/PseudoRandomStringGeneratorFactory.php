@@ -23,7 +23,7 @@
  */
 namespace Facebook\PseudoRandomString;
 
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 use InvalidArgumentException;
 
 class PseudoRandomStringGeneratorFactory

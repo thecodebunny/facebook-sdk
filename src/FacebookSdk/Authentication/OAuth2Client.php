@@ -23,13 +23,13 @@
  */
 namespace Facebook\Authentication;
 
-use Facebook\Facebook;
-use Facebook\FacebookApp;
-use Facebook\FacebookRequest;
-use Facebook\FacebookResponse;
-use Facebook\FacebookClient;
-use Facebook\Exceptions\FacebookResponseException;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Facebook;
+use Thecodebunny\FacebookSdk\FacebookApp;
+use Thecodebunny\FacebookSdk\FacebookRequest;
+use Thecodebunny\FacebookSdk\FacebookResponse;
+use Thecodebunny\FacebookSdk\FacebookClient;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookResponseException;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class OAuth2Client

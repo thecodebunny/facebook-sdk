@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Thecodebunny\FacebookSdk\Facebook;
+namespace Thecodebunny\FacebookSdk;
 
 use ArrayIterator;
 use IteratorAggregate;

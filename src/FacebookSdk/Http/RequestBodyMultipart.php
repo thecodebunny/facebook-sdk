@@ -23,7 +23,7 @@
  */
 namespace Facebook\Http;
 
-use Facebook\FileUpload\FacebookFile;
+use Thecodebunny\FacebookSdk\FileUpload\FacebookFile;
 
 /**
  * Class RequestBodyMultipartt

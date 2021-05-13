@@ -23,8 +23,8 @@
  */
 namespace Facebook\Helpers;
 
-use Facebook\FacebookApp;
-use Facebook\FacebookClient;
+use Thecodebunny\FacebookSdk\FacebookApp;
+use Thecodebunny\FacebookSdk\FacebookClient;
 
 /**
  * Class FacebookPageTabHelper

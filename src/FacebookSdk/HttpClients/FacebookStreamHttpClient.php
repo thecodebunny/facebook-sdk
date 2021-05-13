@@ -23,8 +23,8 @@
  */
 namespace Facebook\HttpClients;
 
-use Facebook\Http\GraphRawResponse;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Http\GraphRawResponse;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 class FacebookStreamHttpClient implements FacebookHttpClientInterface
 {

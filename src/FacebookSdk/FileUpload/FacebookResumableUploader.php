@@ -23,13 +23,13 @@
  */
 namespace Facebook\FileUpload;
 
-use Facebook\Authentication\AccessToken;
-use Facebook\Exceptions\FacebookResponseException;
-use Facebook\Exceptions\FacebookResumableUploadException;
-use Facebook\Exceptions\FacebookSDKException;
-use Facebook\FacebookApp;
-use Facebook\FacebookClient;
-use Facebook\FacebookRequest;
+use Thecodebunny\FacebookSdk\Authentication\AccessToken;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookResponseException;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookResumableUploadException;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\FacebookApp;
+use Thecodebunny\FacebookSdk\FacebookClient;
+use Thecodebunny\FacebookSdk\FacebookRequest;
 
 /**
  * Class FacebookResumableUploader

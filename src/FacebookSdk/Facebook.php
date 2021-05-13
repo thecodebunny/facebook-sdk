@@ -21,27 +21,27 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Thecodebunny\FacebookSdk\Facebook;
+namespace Thecodebunny\FacebookSdk;
 
-use Facebook\Authentication\AccessToken;
-use Facebook\Authentication\OAuth2Client;
-use Facebook\FileUpload\FacebookFile;
-use Facebook\FileUpload\FacebookResumableUploader;
-use Facebook\FileUpload\FacebookTransferChunk;
-use Facebook\FileUpload\FacebookVideo;
-use Facebook\GraphNodes\GraphEdge;
-use Facebook\Url\UrlDetectionInterface;
-use Facebook\Url\FacebookUrlDetectionHandler;
-use Facebook\PseudoRandomString\PseudoRandomStringGeneratorFactory;
-use Facebook\PseudoRandomString\PseudoRandomStringGeneratorInterface;
-use Facebook\HttpClients\HttpClientsFactory;
-use Facebook\PersistentData\PersistentDataFactory;
-use Facebook\PersistentData\PersistentDataInterface;
-use Facebook\Helpers\FacebookCanvasHelper;
-use Facebook\Helpers\FacebookJavaScriptHelper;
-use Facebook\Helpers\FacebookPageTabHelper;
-use Facebook\Helpers\FacebookRedirectLoginHelper;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Authentication\AccessToken;
+use Thecodebunny\FacebookSdk\Authentication\OAuth2Client;
+use Thecodebunny\FacebookSdk\FileUpload\FacebookFile;
+use Thecodebunny\FacebookSdk\FileUpload\FacebookResumableUploader;
+use Thecodebunny\FacebookSdk\FileUpload\FacebookTransferChunk;
+use Thecodebunny\FacebookSdk\FileUpload\FacebookVideo;
+use Thecodebunny\FacebookSdk\GraphNodes\GraphEdge;
+use Thecodebunny\FacebookSdk\Url\UrlDetectionInterface;
+use Thecodebunny\FacebookSdk\Url\FacebookUrlDetectionHandler;
+use Thecodebunny\FacebookSdk\PseudoRandomString\PseudoRandomStringGeneratorFactory;
+use Thecodebunny\FacebookSdk\PseudoRandomString\PseudoRandomStringGeneratorInterface;
+use Thecodebunny\FacebookSdk\HttpClients\HttpClientsFactory;
+use Thecodebunny\FacebookSdk\PersistentData\PersistentDataFactory;
+use Thecodebunny\FacebookSdk\PersistentData\PersistentDataInterface;
+use Thecodebunny\FacebookSdk\Helpers\FacebookCanvasHelper;
+use Thecodebunny\FacebookSdk\Helpers\FacebookJavaScriptHelper;
+use Thecodebunny\FacebookSdk\Helpers\FacebookPageTabHelper;
+use Thecodebunny\FacebookSdk\Helpers\FacebookRedirectLoginHelper;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class Facebook

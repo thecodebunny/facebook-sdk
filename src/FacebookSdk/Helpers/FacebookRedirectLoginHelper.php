@@ -23,16 +23,16 @@
  */
 namespace Facebook\Helpers;
 
-use Facebook\Authentication\AccessToken;
-use Facebook\Authentication\OAuth2Client;
-use Facebook\Exceptions\FacebookSDKException;
-use Facebook\PersistentData\FacebookSessionPersistentDataHandler;
-use Facebook\PersistentData\PersistentDataInterface;
-use Facebook\PseudoRandomString\PseudoRandomStringGeneratorFactory;
-use Facebook\PseudoRandomString\PseudoRandomStringGeneratorInterface;
-use Facebook\Url\FacebookUrlDetectionHandler;
-use Facebook\Url\FacebookUrlManipulator;
-use Facebook\Url\UrlDetectionInterface;
+use Thecodebunny\FacebookSdk\Authentication\AccessToken;
+use Thecodebunny\FacebookSdk\Authentication\OAuth2Client;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\PersistentData\FacebookSessionPersistentDataHandler;
+use Thecodebunny\FacebookSdk\PersistentData\PersistentDataInterface;
+use Thecodebunny\FacebookSdk\PseudoRandomString\PseudoRandomStringGeneratorFactory;
+use Thecodebunny\FacebookSdk\PseudoRandomString\PseudoRandomStringGeneratorInterface;
+use Thecodebunny\FacebookSdk\Url\FacebookUrlDetectionHandler;
+use Thecodebunny\FacebookSdk\Url\FacebookUrlManipulator;
+use Thecodebunny\FacebookSdk\Url\UrlDetectionInterface;
 
 /**
  * Class FacebookRedirectLoginHelper

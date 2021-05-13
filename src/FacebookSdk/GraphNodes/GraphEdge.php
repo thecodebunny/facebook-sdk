@@ -23,9 +23,9 @@
  */
 namespace Facebook\GraphNodes;
 
-use Facebook\FacebookRequest;
-use Facebook\Url\FacebookUrlManipulator;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\FacebookRequest;
+use Thecodebunny\FacebookSdk\Url\FacebookUrlManipulator;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class GraphEdge

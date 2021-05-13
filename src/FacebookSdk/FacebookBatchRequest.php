@@ -21,13 +21,13 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Thecodebunny\FacebookSdk\Facebook;
+namespace Thecodebunny\FacebookSdk;
 
 use ArrayIterator;
 use IteratorAggregate;
 use ArrayAccess;
-use Facebook\Authentication\AccessToken;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Authentication\AccessToken;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class BatchRequest

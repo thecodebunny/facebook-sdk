@@ -21,11 +21,11 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Thecodebunny\FacebookSdk\Facebook;
+namespace Thecodebunny\FacebookSdk;
 
-use Facebook\GraphNodes\GraphNodeFactory;
-use Facebook\Exceptions\FacebookResponseException;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\GraphNodes\GraphNodeFactory;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookResponseException;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class FacebookResponse

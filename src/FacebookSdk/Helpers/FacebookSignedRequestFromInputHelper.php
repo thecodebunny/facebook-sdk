@@ -23,12 +23,12 @@
  */
 namespace Facebook\Helpers;
 
-use Facebook\Facebook;
-use Facebook\FacebookApp;
-use Facebook\FacebookClient;
-use Facebook\SignedRequest;
-use Facebook\Authentication\AccessToken;
-use Facebook\Authentication\OAuth2Client;
+use Thecodebunny\FacebookSdk\Facebook;
+use Thecodebunny\FacebookSdk\FacebookApp;
+use Thecodebunny\FacebookSdk\FacebookClient;
+use Thecodebunny\FacebookSdk\SignedRequest;
+use Thecodebunny\FacebookSdk\Authentication\AccessToken;
+use Thecodebunny\FacebookSdk\Authentication\OAuth2Client;
 
 /**
  * Class FacebookSignedRequestFromInputHelper

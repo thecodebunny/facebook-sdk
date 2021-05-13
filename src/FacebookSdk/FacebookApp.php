@@ -21,10 +21,10 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Thecodebunny\FacebookSdk\Facebook;
+namespace Thecodebunny\FacebookSdk;
 
-use Facebook\Authentication\AccessToken;
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Authentication\AccessToken;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 class FacebookApp implements \Serializable
 {

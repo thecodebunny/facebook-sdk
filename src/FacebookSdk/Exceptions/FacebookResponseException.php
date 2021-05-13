@@ -23,7 +23,7 @@
  */
 namespace Facebook\Exceptions;
 
-use Facebook\FacebookResponse;
+use Thecodebunny\FacebookSdk\FacebookResponse;
 
 /**
  * Class FacebookResponseException

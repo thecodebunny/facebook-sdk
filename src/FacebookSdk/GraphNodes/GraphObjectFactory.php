@@ -23,7 +23,7 @@
  */
 namespace Facebook\GraphNodes;
 
-use Facebook\Exceptions\FacebookSDKException;
+use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 
 /**
  * Class GraphObjectFactory
