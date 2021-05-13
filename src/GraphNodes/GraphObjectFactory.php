@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\GraphNodes;
+namespace Thecodebunny\FacebookSdk\GraphNodes;
 
 use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 

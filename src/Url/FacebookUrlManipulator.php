@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\Url;
+namespace Thecodebunny\FacebookSdk\Url;
 
 /**
  * Class FacebookUrlManipulator

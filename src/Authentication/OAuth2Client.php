@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\Authentication;
+namespace Thecodebunny\FacebookSdk\Authentication;
 
 use Thecodebunny\FacebookSdk\Facebook;
 use Thecodebunny\FacebookSdk\FacebookApp;

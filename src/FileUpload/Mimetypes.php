@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\FileUpload;
+namespace Thecodebunny\FacebookSdk\FileUpload;
 
 /**
  * Provides mappings of file extensions to mimetypes

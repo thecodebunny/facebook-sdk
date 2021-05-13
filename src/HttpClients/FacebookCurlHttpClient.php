@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\HttpClients;
+namespace Thecodebunny\FacebookSdk\HttpClients;
 
 use Thecodebunny\FacebookSdk\Http\GraphRawResponse;
 use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;

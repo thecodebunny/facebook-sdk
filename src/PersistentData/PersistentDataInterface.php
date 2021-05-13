@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\PersistentData;
+namespace Thecodebunny\FacebookSdk\PersistentData;
 
 /**
  * Interface PersistentDataInterface

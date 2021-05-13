@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\PseudoRandomString;
+namespace Thecodebunny\FacebookSdk\PseudoRandomString;
 
 use Thecodebunny\FacebookSdk\Exceptions\FacebookSDKException;
 use InvalidArgumentException;

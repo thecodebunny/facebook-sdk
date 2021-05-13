@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\Exceptions;
+namespace Thecodebunny\FacebookSdk\Exceptions;
 
 /**
  * Class FacebookServerException

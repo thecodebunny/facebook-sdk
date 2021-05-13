@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\Helpers;
+namespace Thecodebunny\FacebookSdk\Helpers;
 
 use Thecodebunny\FacebookSdk\FacebookApp;
 use Thecodebunny\FacebookSdk\FacebookClient;

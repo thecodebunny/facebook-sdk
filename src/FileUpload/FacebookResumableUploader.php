@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\FileUpload;
+namespace Thecodebunny\FacebookSdk\FileUpload;
 
 use Thecodebunny\FacebookSdk\Authentication\AccessToken;
 use Thecodebunny\FacebookSdk\Exceptions\FacebookResponseException;

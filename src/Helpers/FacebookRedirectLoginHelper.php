@@ -21,7 +21,7 @@
  * DEALINGS IN THE SOFTWARE.
  *
  */
-namespace Facebook\Helpers;
+namespace Thecodebunny\FacebookSdk\Helpers;
 
 use Thecodebunny\FacebookSdk\Authentication\AccessToken;
 use Thecodebunny\FacebookSdk\Authentication\OAuth2Client;
