@@ -24,15 +24,15 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\ProfileFields;
-use FacebookAds\Object\Values\ProfilePictureSourceBreakingChangeValues;
-use FacebookAds\Object\Values\ProfilePictureSourceTypeValues;
-use FacebookAds\Object\Values\ProfileProfileTypeValues;
-use FacebookAds\Object\Values\ProfileTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ProfileFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProfilePictureSourceBreakingChangeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProfilePictureSourceTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProfileProfileTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProfileTypeValues;
 
 /**
  * This class is auto-generated.

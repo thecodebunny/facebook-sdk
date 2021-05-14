@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\CustomAudienceDataSourceFields;
-use FacebookAds\Object\Values\CustomAudienceDataSourceSubTypeValues;
-use FacebookAds\Object\Values\CustomAudienceDataSourceTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\CustomAudienceDataSourceFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceDataSourceSubTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceDataSourceTypeValues;
 
 /**
  * This class is auto-generated.

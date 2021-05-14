@@ -22,9 +22,9 @@
  *
  */
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
-use FacebookAds\ApiConfig;
-use FacebookAds\TypeChecker;
-use FacebookAds\Enum\EmptyEnum;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiConfig;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Enum\EmptyEnum;
 class AbstractObject {
   /**
    * @var mixed[] set of key value pairs representing data

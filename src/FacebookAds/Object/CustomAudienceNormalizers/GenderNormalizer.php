@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers;
 
-use FacebookAds\Object\Fields\CustomAudienceMultikeySchemaFields;
-use FacebookAds\Object\CustomAudienceNormalizers\ValueNormalizerInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\CustomAudienceMultikeySchemaFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\ValueNormalizerInterface;
 
 class GenderNormalizer implements ValueNormalizerInterface {
 

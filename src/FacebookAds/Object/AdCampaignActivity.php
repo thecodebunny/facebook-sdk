@@ -24,17 +24,17 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdCampaignActivityFields;
-use FacebookAds\Object\Values\AdCampaignActivityBidStrategyNewValues;
-use FacebookAds\Object\Values\AdCampaignActivityBidStrategyOldValues;
-use FacebookAds\Object\Values\AdCampaignActivityBillingEventNewValues;
-use FacebookAds\Object\Values\AdCampaignActivityBillingEventOldValues;
-use FacebookAds\Object\Values\AdCampaignActivityOptimizationGoalNewValues;
-use FacebookAds\Object\Values\AdCampaignActivityOptimizationGoalOldValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdCampaignActivityFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCampaignActivityBidStrategyNewValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCampaignActivityBidStrategyOldValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCampaignActivityBillingEventNewValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCampaignActivityBillingEventOldValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCampaignActivityOptimizationGoalNewValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCampaignActivityOptimizationGoalOldValues;
 
 /**
  * This class is auto-generated.

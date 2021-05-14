@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\Object\Fields\ProductAudienceFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ProductAudienceFields;
 
 class ProductAudience extends AbstractCrudObject {
 

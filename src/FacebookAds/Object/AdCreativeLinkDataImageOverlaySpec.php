@@ -24,17 +24,17 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdCreativeLinkDataImageOverlaySpecFields;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecCustomTextTypeValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecOverlayTemplateValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecPositionValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecTextFontValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecTextTypeValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecThemeColorValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdCreativeLinkDataImageOverlaySpecFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecCustomTextTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecOverlayTemplateValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecPositionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecTextFontValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecTextTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageOverlaySpecThemeColorValues;
 
 /**
  * This class is auto-generated.

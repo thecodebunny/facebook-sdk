@@ -24,24 +24,24 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdCreativeFields;
-use FacebookAds\Object\Values\AdCreativeApplinkTreatmentValues;
-use FacebookAds\Object\Values\AdCreativeAuthorizationCategoryValues;
-use FacebookAds\Object\Values\AdCreativeCallToActionTypeValues;
-use FacebookAds\Object\Values\AdCreativeCategorizationCriteriaValues;
-use FacebookAds\Object\Values\AdCreativeCategoryMediaSourceValues;
-use FacebookAds\Object\Values\AdCreativeDynamicAdVoiceValues;
-use FacebookAds\Object\Values\AdCreativeInstantCheckoutSettingValues;
-use FacebookAds\Object\Values\AdCreativeObjectTypeValues;
-use FacebookAds\Object\Values\AdCreativeOperatorValues;
-use FacebookAds\Object\Values\AdCreativeStatusValues;
-use FacebookAds\Object\Values\AdPreviewAdFormatValues;
-use FacebookAds\Object\Values\AdPreviewRenderTypeValues;
-use FacebookAds\Object\Traits\AdLabelAwareCrudObjectTrait;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdCreativeFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeApplinkTreatmentValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeAuthorizationCategoryValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeCallToActionTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeCategorizationCriteriaValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeCategoryMediaSourceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeDynamicAdVoiceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeInstantCheckoutSettingValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeObjectTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeOperatorValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdPreviewAdFormatValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdPreviewRenderTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Traits\AdLabelAwareCrudObjectTrait;
 
 /**
  * This class is auto-generated.

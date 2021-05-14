@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Signal;
 
-use FacebookAds\Object\BusinessDataAPI\Event as BusinessDataEvent;
-use FacebookAds\Object\ServerSide\Event as ServerSideEvent;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\BusinessDataAPI\Event as BusinessDataEvent;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide\Event as ServerSideEvent;
 
 
 class Event {

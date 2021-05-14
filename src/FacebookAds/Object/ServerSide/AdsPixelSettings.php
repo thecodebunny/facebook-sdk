@@ -24,9 +24,9 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide;
 
-use FacebookAds\Http\Client;
-use FacebookAds\Http\SimpleRequest;
-use FacebookAds\Exception\Exception;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Client;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\SimpleRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Exception\Exception;
 
 use ArrayAccess;
 

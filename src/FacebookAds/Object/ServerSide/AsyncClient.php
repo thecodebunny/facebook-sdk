@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide;
 
-use FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;

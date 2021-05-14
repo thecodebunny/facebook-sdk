@@ -24,9 +24,9 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide;
 
-use FacebookAds\Api;
-use FacebookAds\ApiConfig;
-use FacebookAds\Http\Client;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiConfig;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Client;
 use GuzzleHttp\Psr7\Request;
 use GuzzleHttp\Psr7\MultipartStream;
 

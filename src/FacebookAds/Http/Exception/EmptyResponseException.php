@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Http\Exception;
 
-use FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
 
 class EmptyResponseException extends RequestException {
 

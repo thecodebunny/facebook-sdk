@@ -24,14 +24,14 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdAsyncRequestSetFields;
-use FacebookAds\Object\Values\AdAsyncRequestSetNotificationModeValues;
-use FacebookAds\Object\Values\AdAsyncRequestSetNotificationStatusValues;
-use FacebookAds\Object\Values\AdAsyncRequestStatusesValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdAsyncRequestSetFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAsyncRequestSetNotificationModeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAsyncRequestSetNotificationStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAsyncRequestStatusesValues;
 
 /**
  * This class is auto-generated.

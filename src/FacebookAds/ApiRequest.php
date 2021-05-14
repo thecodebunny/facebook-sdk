@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds;
 
-use FacebookAds\Cursor;
-use FacebookAds\AbstractObject;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\AbstractObject;
 
 class ApiRequest {
   protected $api;

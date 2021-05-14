@@ -24,18 +24,18 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\ProductFeedFields;
-use FacebookAds\Object\Values\ProductFeedDelimiterValues;
-use FacebookAds\Object\Values\ProductFeedEncodingValues;
-use FacebookAds\Object\Values\ProductFeedFeedTypeValues;
-use FacebookAds\Object\Values\ProductFeedItemSubTypeValues;
-use FacebookAds\Object\Values\ProductFeedOverrideTypeValues;
-use FacebookAds\Object\Values\ProductFeedQuotedFieldsModeValues;
-use FacebookAds\Object\Values\ProductFeedRuleRuleTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ProductFeedFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedDelimiterValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedEncodingValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedFeedTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedItemSubTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedOverrideTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedQuotedFieldsModeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedRuleRuleTypeValues;
 
 /**
  * This class is auto-generated.

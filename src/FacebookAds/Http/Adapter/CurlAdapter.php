@@ -24,14 +24,14 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter;
 
-use FacebookAds\Exception\Exception;
-use FacebookAds\Http\Adapter\Curl\AbstractCurl;
-use FacebookAds\Http\Adapter\Curl\Curl;
-use FacebookAds\Http\Adapter\Curl\CurlInterface;
-use FacebookAds\Http\Client;
-use FacebookAds\Http\Headers;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Exception\Exception;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter\Curl\AbstractCurl;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter\Curl\Curl;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter\Curl\CurlInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Client;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Headers;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
 
 class CurlAdapter extends AbstractAdapter {
 

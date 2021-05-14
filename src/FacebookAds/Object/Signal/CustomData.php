@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Signal;
 
-use FacebookAds\Object\BusinessDataAPI\CustomData as BusinessDataCustomData;
-use FacebookAds\Object\ServerSide\CustomData as ServerSideCustomData;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\BusinessDataAPI\CustomData as BusinessDataCustomData;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide\CustomData as ServerSideCustomData;
 
 class CustomData {
 

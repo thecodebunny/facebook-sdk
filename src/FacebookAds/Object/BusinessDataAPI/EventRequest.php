@@ -24,9 +24,9 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\BusinessDataAPI;
 
-use FacebookAds\Api;
-use FacebookAds\ApiConfig;
-use FacebookAds\Object\Page;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiConfig;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Page;
 
 /**
  * Business Data API Event Request

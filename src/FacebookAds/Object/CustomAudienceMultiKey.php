@@ -24,11 +24,11 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Object\Values\CustomAudienceTypes;
-use FacebookAds\Object\Fields\CustomAudienceFields;
-use FacebookAds\Object\CustomAudienceNormalizers\HashNormalizer;
-use FacebookAds\Object\Fields\CustomAudienceMultikeySchemaFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceTypes;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\CustomAudienceFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\HashNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\CustomAudienceMultikeySchemaFields;
 
 /**
  * @deprecated

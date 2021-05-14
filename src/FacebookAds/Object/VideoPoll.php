@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\VideoPollFields;
-use FacebookAds\Object\Values\VideoPollActionValues;
-use FacebookAds\Object\Values\VideoPollStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\VideoPollFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VideoPollActionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VideoPollStatusValues;
 
 /**
  * This class is auto-generated.

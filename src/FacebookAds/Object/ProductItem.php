@@ -24,20 +24,20 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\ProductItemFields;
-use FacebookAds\Object\Values\ProductItemAgeGroupValues;
-use FacebookAds\Object\Values\ProductItemAvailabilityValues;
-use FacebookAds\Object\Values\ProductItemCommerceTaxCategoryValues;
-use FacebookAds\Object\Values\ProductItemConditionValues;
-use FacebookAds\Object\Values\ProductItemGenderValues;
-use FacebookAds\Object\Values\ProductItemImageFetchStatusValues;
-use FacebookAds\Object\Values\ProductItemReviewStatusValues;
-use FacebookAds\Object\Values\ProductItemShippingWeightUnitValues;
-use FacebookAds\Object\Values\ProductItemVisibilityValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ProductItemFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemAgeGroupValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemAvailabilityValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemCommerceTaxCategoryValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemConditionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemGenderValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemImageFetchStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemReviewStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemShippingWeightUnitValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductItemVisibilityValues;
 
 /**
  * This class is auto-generated.

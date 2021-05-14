@@ -24,28 +24,28 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\ApplicationFields;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultAggregationPeriodValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultBreakdownsValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultMetricsValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingColumnValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingTypeValues;
-use FacebookAds\Object\Values\ApplicationAnPlatformsValues;
-use FacebookAds\Object\Values\ApplicationLoggingSourceValues;
-use FacebookAds\Object\Values\ApplicationLoggingTargetValues;
-use FacebookAds\Object\Values\ApplicationMutationMethodValues;
-use FacebookAds\Object\Values\ApplicationPlatformValues;
-use FacebookAds\Object\Values\ApplicationPostMethodValues;
-use FacebookAds\Object\Values\ApplicationRequestTypeValues;
-use FacebookAds\Object\Values\ApplicationScoreTypeValues;
-use FacebookAds\Object\Values\ApplicationSortOrderValues;
-use FacebookAds\Object\Values\ApplicationSupportedPlatformsValues;
-use FacebookAds\Object\Values\DACheckConnectionMethodValues;
-use FacebookAds\Object\Values\EventTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ApplicationFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultAggregationPeriodValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultMetricsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingColumnValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationAnPlatformsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationLoggingSourceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationLoggingTargetValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationMutationMethodValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationPlatformValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationPostMethodValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationRequestTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationScoreTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationSortOrderValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ApplicationSupportedPlatformsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\DACheckConnectionMethodValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\EventTypeValues;
 
 /**
  * This class is auto-generated.

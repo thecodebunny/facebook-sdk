@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\TargetingFields;
-use FacebookAds\Object\Values\TargetingDevicePlatformsValues;
-use FacebookAds\Object\Values\TargetingEffectiveDevicePlatformsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\TargetingFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\TargetingDevicePlatformsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\TargetingEffectiveDevicePlatformsValues;
 
 /**
  * This class is auto-generated.

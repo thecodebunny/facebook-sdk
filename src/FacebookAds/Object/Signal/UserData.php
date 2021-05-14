@@ -26,8 +26,8 @@ namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Signal;
 
 use Util;
 
-use FacebookAds\Object\BusinessDataAPI\UserData as BusinessDataUserData;
-use FacebookAds\Object\ServerSide\UserData as ServerSideUserData;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\BusinessDataAPI\UserData as BusinessDataUserData;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide\UserData as ServerSideUserData;
 
 /**
  * UserData is a set of identifiers Facebook can use for targeted attribution.

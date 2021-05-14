@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdRuleFields;
-use FacebookAds\Object\Values\AdRuleHistoryActionValues;
-use FacebookAds\Object\Values\AdRuleStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdRuleFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdRuleHistoryActionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdRuleStatusValues;
 
 /**
  * This class is auto-generated.

@@ -24,29 +24,29 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdFields;
-use FacebookAds\Object\Values\AdBidTypeValues;
-use FacebookAds\Object\Values\AdConfiguredStatusValues;
-use FacebookAds\Object\Values\AdDatePresetValues;
-use FacebookAds\Object\Values\AdEffectiveStatusValues;
-use FacebookAds\Object\Values\AdExecutionOptionsValues;
-use FacebookAds\Object\Values\AdOperatorValues;
-use FacebookAds\Object\Values\AdPreviewAdFormatValues;
-use FacebookAds\Object\Values\AdPreviewRenderTypeValues;
-use FacebookAds\Object\Values\AdStatusOptionValues;
-use FacebookAds\Object\Values\AdStatusValues;
-use FacebookAds\Object\Values\AdsInsightsActionAttributionWindowsValues;
-use FacebookAds\Object\Values\AdsInsightsActionBreakdownsValues;
-use FacebookAds\Object\Values\AdsInsightsActionReportTimeValues;
-use FacebookAds\Object\Values\AdsInsightsBreakdownsValues;
-use FacebookAds\Object\Values\AdsInsightsDatePresetValues;
-use FacebookAds\Object\Values\AdsInsightsLevelValues;
-use FacebookAds\Object\Values\AdsInsightsSummaryActionBreakdownsValues;
-use FacebookAds\Object\Traits\AdLabelAwareCrudObjectTrait;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdBidTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdConfiguredStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdDatePresetValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdEffectiveStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdExecutionOptionsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdOperatorValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdPreviewAdFormatValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdPreviewRenderTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdStatusOptionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsActionAttributionWindowsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsActionBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsActionReportTimeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsDatePresetValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsLevelValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsSummaryActionBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Traits\AdLabelAwareCrudObjectTrait;
 
 /**
  * This class is auto-generated.

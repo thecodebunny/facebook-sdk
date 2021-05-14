@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdRecommendationFields;
-use FacebookAds\Object\Values\AdRecommendationConfidenceValues;
-use FacebookAds\Object\Values\AdRecommendationImportanceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdRecommendationFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdRecommendationConfidenceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdRecommendationImportanceValues;
 
 /**
  * This class is auto-generated.

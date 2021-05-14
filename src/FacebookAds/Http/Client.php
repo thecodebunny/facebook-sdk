@@ -24,11 +24,11 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Http;
 
-use FacebookAds\ApiConfig;
-use FacebookAds\Http\Adapter\AdapterInterface;
-use FacebookAds\Http\Adapter\CurlAdapter;
-use FacebookAds\Http\Exception\EmptyResponseException;
-use FacebookAds\Http\Exception\RequestException;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiConfig;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter\AdapterInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter\CurlAdapter;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Exception\EmptyResponseException;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Exception\RequestException;
 
 class Client {
 

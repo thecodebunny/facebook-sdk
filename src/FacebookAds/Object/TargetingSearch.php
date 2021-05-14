@@ -24,9 +24,9 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\Api;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
 
 class TargetingSearch extends AbstractObject {
 

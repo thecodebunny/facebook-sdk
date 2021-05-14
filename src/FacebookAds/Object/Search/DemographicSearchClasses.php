@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Search;
 
-use FacebookAds\Enum\AbstractEnum;
+use Thecodebunny\FacebookSdk\FacebookAds\Enum\AbstractEnum;
 
 /**
  * @method static DemographicSearchClasses getInstance()

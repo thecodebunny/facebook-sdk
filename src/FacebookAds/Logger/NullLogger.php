@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Logger;
 
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
 
 class NullLogger implements LoggerInterface {
 

@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Logger\CurlLogger;
 
-use FacebookAds\Http\Parameters;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Parameters;
 
 class JsonAwareParameters extends Parameters {
 

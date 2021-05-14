@@ -24,20 +24,20 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\VehicleFields;
-use FacebookAds\Object\Values\VehicleAvailabilityValues;
-use FacebookAds\Object\Values\VehicleBodyStyleValues;
-use FacebookAds\Object\Values\VehicleConditionValues;
-use FacebookAds\Object\Values\VehicleDrivetrainValues;
-use FacebookAds\Object\Values\VehicleFuelTypeValues;
-use FacebookAds\Object\Values\VehicleImageFetchStatusValues;
-use FacebookAds\Object\Values\VehicleStateOfVehicleValues;
-use FacebookAds\Object\Values\VehicleTransmissionValues;
-use FacebookAds\Object\Values\VehicleVehicleTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\VehicleFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleAvailabilityValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleBodyStyleValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleConditionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleDrivetrainValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleFuelTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleImageFetchStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleStateOfVehicleValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleTransmissionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\VehicleVehicleTypeValues;
 
 /**
  * This class is auto-generated.

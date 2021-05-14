@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Fields;
 
-use FacebookAds\Enum\AbstractEnum;
+use Thecodebunny\FacebookSdk\FacebookAds\Enum\AbstractEnum;
 
 /**
  * @method static AdVideoFields getInstance()

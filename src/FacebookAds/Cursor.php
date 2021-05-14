@@ -24,10 +24,10 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds;
 
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\ResponseInterface;
-use FacebookAds\Http\Util;
-use FacebookAds\Object\AbstractObject;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Util;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\AbstractObject;
 
 class Cursor implements \Iterator, \Countable, \arrayaccess {
   /**

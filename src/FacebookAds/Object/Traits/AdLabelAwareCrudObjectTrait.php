@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Traits;
 
-use FacebookAds\Api;
-use FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
 
 /**
  * @method Api getApi()

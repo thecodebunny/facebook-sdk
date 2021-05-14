@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter;
 
-use FacebookAds\Http\Client;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Client;
 
 abstract class AbstractAdapter implements AdapterInterface {
 

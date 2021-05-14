@@ -24,14 +24,14 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\ReachFrequencyPredictionFields;
-use FacebookAds\Object\Values\ReachFrequencyPredictionActionValues;
-use FacebookAds\Object\Values\ReachFrequencyPredictionBuyingTypeValues;
-use FacebookAds\Object\Values\ReachFrequencyPredictionInstreamPackagesValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ReachFrequencyPredictionFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ReachFrequencyPredictionActionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ReachFrequencyPredictionBuyingTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ReachFrequencyPredictionInstreamPackagesValues;
 
 /**
  * This class is auto-generated.

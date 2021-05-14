@@ -22,10 +22,10 @@
  *
  */
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
-use FacebookAds\Api;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
 class AbstractCrudObject extends AbstractObject {
   /**
    * @var string

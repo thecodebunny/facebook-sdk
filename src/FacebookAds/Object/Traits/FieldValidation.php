@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Traits;
 
-use FacebookAds\Enum\EnumInstanceInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Enum\EnumInstanceInterface;
 
 /**
  * @method static EnumInstanceInterface getFieldsEnum()

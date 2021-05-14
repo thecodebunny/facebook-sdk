@@ -24,16 +24,16 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdNetworkAnalyticsSyncQueryResultFields;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultAggregationPeriodValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultBreakdownsValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultMetricsValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingColumnValues;
-use FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdNetworkAnalyticsSyncQueryResultFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultAggregationPeriodValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultMetricsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingColumnValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdNetworkAnalyticsSyncQueryResultOrderingTypeValues;
 
 /**
  * This class is auto-generated.

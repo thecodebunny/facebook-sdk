@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdCreativeLinkDataFields;
-use FacebookAds\Object\Values\AdCreativeLinkDataAttachmentStyleValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataFormatOptionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdCreativeLinkDataFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataAttachmentStyleValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataFormatOptionValues;
 
 /**
  * This class is auto-generated.

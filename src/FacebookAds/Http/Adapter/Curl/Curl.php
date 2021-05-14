@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter\Curl;
 
-use FacebookAds\Http\FileParameter;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\FileParameter;
 
 class Curl extends AbstractCurl {
 

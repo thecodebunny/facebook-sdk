@@ -24,15 +24,15 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\PageCallToActionFields;
-use FacebookAds\Object\Values\PageCallToActionAndroidDestinationTypeValues;
-use FacebookAds\Object\Values\PageCallToActionIphoneDestinationTypeValues;
-use FacebookAds\Object\Values\PageCallToActionTypeValues;
-use FacebookAds\Object\Values\PageCallToActionWebDestinationTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\PageCallToActionFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\PageCallToActionAndroidDestinationTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\PageCallToActionIphoneDestinationTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\PageCallToActionTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\PageCallToActionWebDestinationTypeValues;
 
 /**
  * This class is auto-generated.

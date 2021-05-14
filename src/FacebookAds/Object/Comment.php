@@ -24,16 +24,16 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\CommentFields;
-use FacebookAds\Object\Values\CommentCommentPrivacyValueValues;
-use FacebookAds\Object\Values\CommentFilterValues;
-use FacebookAds\Object\Values\CommentLiveFilterValues;
-use FacebookAds\Object\Values\CommentOrderValues;
-use FacebookAds\Object\Values\ProfileTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\CommentFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentCommentPrivacyValueValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentFilterValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentLiveFilterValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentOrderValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProfileTypeValues;
 
 /**
  * This class is auto-generated.

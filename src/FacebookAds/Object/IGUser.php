@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\IGUserFields;
-use FacebookAds\Object\Values\InstagramInsightsResultMetricValues;
-use FacebookAds\Object\Values\InstagramInsightsResultPeriodValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\IGUserFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\InstagramInsightsResultMetricValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\InstagramInsightsResultPeriodValues;
 
 /**
  * This class is auto-generated.

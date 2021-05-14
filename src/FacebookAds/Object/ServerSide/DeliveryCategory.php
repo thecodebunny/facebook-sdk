@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide;
 
-use FacebookAds\Enum\AbstractEnum;
+use Thecodebunny\FacebookSdk\FacebookAds\Enum\AbstractEnum;
 
 /**
  * Class DeliveryCategory

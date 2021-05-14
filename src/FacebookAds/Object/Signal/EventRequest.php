@@ -24,11 +24,11 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Signal;
 
-use FacebookAds\Api;
-use FacebookAds\Object\AdsPixel;
-use FacebookAds\Object\Page;
-use FacebookAds\Object\BusinessDataAPI\EventRequest as BusinessDataEventRequest;
-use FacebookAds\Object\ServerSide\EventRequest as ServerSideEventRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\AdsPixel;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Page;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\BusinessDataAPI\EventRequest as BusinessDataEventRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide\EventRequest as ServerSideEventRequest;
 
 /**
  * Event Request

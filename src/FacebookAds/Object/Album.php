@@ -24,18 +24,18 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AlbumFields;
-use FacebookAds\Object\Values\CommentCommentPrivacyValueValues;
-use FacebookAds\Object\Values\CommentFilterValues;
-use FacebookAds\Object\Values\CommentLiveFilterValues;
-use FacebookAds\Object\Values\CommentOrderValues;
-use FacebookAds\Object\Values\PhotoBackdatedTimeGranularityValues;
-use FacebookAds\Object\Values\PhotoUnpublishedContentTypeValues;
-use FacebookAds\Object\Values\ProfilePictureSourceTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AlbumFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentCommentPrivacyValueValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentFilterValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentLiveFilterValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CommentOrderValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\PhotoBackdatedTimeGranularityValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\PhotoUnpublishedContentTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProfilePictureSourceTypeValues;
 
 /**
  * This class is auto-generated.

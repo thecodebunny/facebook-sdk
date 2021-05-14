@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object\Signal;
 
-use FacebookAds\Object\BusinessDataAPI\Content as BusinessDataContent;
-use FacebookAds\Object\ServerSide\Content as ServerSideContent;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\BusinessDataAPI\Content as BusinessDataContent;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\ServerSide\Content as ServerSideContent;
 
 class Content {
   /**

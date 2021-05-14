@@ -24,12 +24,12 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds;
 
-use FacebookAds\Http\Client;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\ResponseInterface;
-use FacebookAds\Logger\LoggerInterface;
-use FacebookAds\Logger\NullLogger;
-use FacebookAds\CrashReporter;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Client;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Logger\LoggerInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Logger\NullLogger;
+use Thecodebunny\FacebookSdk\FacebookAds\CrashReporter;
 
 class Api {
 

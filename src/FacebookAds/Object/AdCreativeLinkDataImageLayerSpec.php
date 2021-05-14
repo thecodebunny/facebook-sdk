@@ -24,18 +24,18 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdCreativeLinkDataImageLayerSpecFields;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecBlendingModeValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecFrameSourceValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecImageSourceValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecLayerTypeValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecOverlayPositionValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecOverlayShapeValues;
-use FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecTextFontValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdCreativeLinkDataImageLayerSpecFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecBlendingModeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecFrameSourceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecImageSourceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecLayerTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecOverlayPositionValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecOverlayShapeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdCreativeLinkDataImageLayerSpecTextFontValues;
 
 /**
  * This class is auto-generated.

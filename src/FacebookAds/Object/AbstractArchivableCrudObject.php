@@ -24,7 +24,7 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
 
 abstract class AbstractArchivableCrudObject extends AbstractCrudObject {
 

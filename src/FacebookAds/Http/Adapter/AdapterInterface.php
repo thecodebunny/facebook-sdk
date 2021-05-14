@@ -24,9 +24,9 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Http\Adapter;
 
-use FacebookAds\Http\Client;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Client;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
 
 interface AdapterInterface {
 

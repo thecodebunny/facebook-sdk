@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\Object\Fields\AdCreativeObjectStorySpecFields;
-use FacebookAds\Object\Traits\FieldValidation;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdCreativeObjectStorySpecFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Traits\FieldValidation;
 
 /**
  * @deprecated use AdCreativeObjectStorySpec instead

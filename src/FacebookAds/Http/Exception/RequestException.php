@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Http\Exception;
 
-use FacebookAds\Exception\Exception;
-use FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Exception\Exception;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
 
 class RequestException extends Exception {
 

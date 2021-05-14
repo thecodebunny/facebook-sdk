@@ -24,18 +24,18 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdsPixelFields;
-use FacebookAds\Object\Values\AdsPixelAutomaticMatchingFieldsValues;
-use FacebookAds\Object\Values\AdsPixelDataUseSettingValues;
-use FacebookAds\Object\Values\AdsPixelFirstPartyCookieStatusValues;
-use FacebookAds\Object\Values\AdsPixelSortByValues;
-use FacebookAds\Object\Values\AdsPixelStatsResultAggregationValues;
-use FacebookAds\Object\Values\AdsPixelTasksValues;
-use FacebookAds\Object\Values\DACheckConnectionMethodValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdsPixelFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsPixelAutomaticMatchingFieldsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsPixelDataUseSettingValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsPixelFirstPartyCookieStatusValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsPixelSortByValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsPixelStatsResultAggregationValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsPixelTasksValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\DACheckConnectionMethodValues;
 
 /**
  * This class is auto-generated.

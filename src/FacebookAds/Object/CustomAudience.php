@@ -24,31 +24,31 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\CustomAudienceFields;
-use FacebookAds\Object\Values\CustomAudienceClaimObjectiveValues;
-use FacebookAds\Object\Values\CustomAudienceContentTypeValues;
-use FacebookAds\Object\Values\CustomAudienceCustomerFileSourceValues;
-use FacebookAds\Object\Values\CustomAudienceSubtypeValues;
-use FacebookAds\Object\Values\CustomAudienceTypes;
-use FacebookAds\Object\Fields\CustomAudienceMultikeySchemaFields;
-use FacebookAds\Object\CustomAudienceNormalizers\EmailNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\PhoneNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\MadidNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\GenderNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\BirthYearNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\DateNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\FirstNameNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\LastNameNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\FirstNameInitialNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\StateNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\CityNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\ZipNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\CountryNormalizer;
-use FacebookAds\Object\CustomAudienceNormalizers\HashNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\CustomAudienceFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceClaimObjectiveValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceContentTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceCustomerFileSourceValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceSubtypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\CustomAudienceTypes;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\CustomAudienceMultikeySchemaFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\EmailNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\PhoneNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\MadidNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\GenderNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\BirthYearNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\DateNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\FirstNameNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\LastNameNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\FirstNameInitialNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\StateNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\CityNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\ZipNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\CountryNormalizer;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\CustomAudienceNormalizers\HashNormalizer;
 
 /**
  * This class is auto-generated.

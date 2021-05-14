@@ -24,11 +24,11 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Logger;
 
-use FacebookAds\Http\FileParameter;
-use FacebookAds\Http\Parameters;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\ResponseInterface;
-use FacebookAds\Logger\CurlLogger\JsonAwareParameters;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\FileParameter;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Parameters;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\ResponseInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Logger\CurlLogger\JsonAwareParameters;
 
 class CurlLogger implements LoggerInterface {
 

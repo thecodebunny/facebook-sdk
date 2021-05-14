@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Object\Fields\SystemUserFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\SystemUserFields;
 
 class SystemUser extends AbstractCrudObject {
 

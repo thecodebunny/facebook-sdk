@@ -24,8 +24,8 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\Object\Fields\ClickTrackingTagFields;
-use FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ClickTrackingTagFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
 
 class ClickTrackingTag extends AbstractCrudObject {
 

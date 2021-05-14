@@ -24,13 +24,13 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\ProductFeedUploadErrorFields;
-use FacebookAds\Object\Values\ProductFeedUploadErrorAffectedSurfacesValues;
-use FacebookAds\Object\Values\ProductFeedUploadErrorSeverityValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\ProductFeedUploadErrorFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedUploadErrorAffectedSurfacesValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\ProductFeedUploadErrorSeverityValues;
 
 /**
  * This class is auto-generated.

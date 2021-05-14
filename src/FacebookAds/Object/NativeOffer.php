@@ -24,14 +24,14 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\NativeOfferFields;
-use FacebookAds\Object\Values\NativeOfferBarcodeTypeValues;
-use FacebookAds\Object\Values\NativeOfferLocationTypeValues;
-use FacebookAds\Object\Values\NativeOfferUniqueCodesFileCodeTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\NativeOfferFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\NativeOfferBarcodeTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\NativeOfferLocationTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\NativeOfferUniqueCodesFileCodeTypeValues;
 
 /**
  * This class is auto-generated.

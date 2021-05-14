@@ -24,18 +24,18 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdsInsightsFields;
-use FacebookAds\Object\Values\AdsInsightsActionAttributionWindowsValues;
-use FacebookAds\Object\Values\AdsInsightsActionBreakdownsValues;
-use FacebookAds\Object\Values\AdsInsightsActionReportTimeValues;
-use FacebookAds\Object\Values\AdsInsightsBreakdownsValues;
-use FacebookAds\Object\Values\AdsInsightsDatePresetValues;
-use FacebookAds\Object\Values\AdsInsightsLevelValues;
-use FacebookAds\Object\Values\AdsInsightsSummaryActionBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdsInsightsFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsActionAttributionWindowsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsActionBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsActionReportTimeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsBreakdownsValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsDatePresetValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsLevelValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdsInsightsSummaryActionBreakdownsValues;
 
 /**
  * This class is auto-generated.

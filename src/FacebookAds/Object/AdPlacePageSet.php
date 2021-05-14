@@ -24,14 +24,14 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdPlacePageSetFields;
-use FacebookAds\Object\Values\AdPlacePageSetCategoryValues;
-use FacebookAds\Object\Values\AdPlacePageSetLocationTypesValues;
-use FacebookAds\Object\Values\AdPlacePageSetTargetedAreaTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdPlacePageSetFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdPlacePageSetCategoryValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdPlacePageSetLocationTypesValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdPlacePageSetTargetedAreaTypeValues;
 
 /**
  * This class is auto-generated.

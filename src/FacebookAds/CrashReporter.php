@@ -24,10 +24,10 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds;
 
-use FacebookAds\Api;
-use FacebookAds\Exception\Exception;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\Http\Exception\RequestException;
+use Thecodebunny\FacebookSdk\FacebookAds\Api;
+use Thecodebunny\FacebookSdk\FacebookAds\Exception\Exception;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\Exception\RequestException;
 
 /**
  * Class CrashReasons

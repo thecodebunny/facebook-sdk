@@ -24,17 +24,17 @@
 
 namespace Thecodebunny\FacebookSdk\FacebookAds\Object;
 
-use FacebookAds\ApiRequest;
-use FacebookAds\Cursor;
-use FacebookAds\Http\RequestInterface;
-use FacebookAds\TypeChecker;
-use FacebookAds\Object\Fields\AdAccountTargetingUnifiedFields;
-use FacebookAds\Object\Values\AdAccountTargetingUnifiedAppStoreValues;
-use FacebookAds\Object\Values\AdAccountTargetingUnifiedLimitTypeValues;
-use FacebookAds\Object\Values\AdAccountTargetingUnifiedModeValues;
-use FacebookAds\Object\Values\AdAccountTargetingUnifiedObjectiveValues;
-use FacebookAds\Object\Values\AdAccountTargetingUnifiedRegulatedCategoriesValues;
-use FacebookAds\Object\Values\AdAccountTargetingUnifiedWhitelistedTypesValues;
+use Thecodebunny\FacebookSdk\FacebookAds\ApiRequest;
+use Thecodebunny\FacebookSdk\FacebookAds\Cursor;
+use Thecodebunny\FacebookSdk\FacebookAds\Http\RequestInterface;
+use Thecodebunny\FacebookSdk\FacebookAds\TypeChecker;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Fields\AdAccountTargetingUnifiedFields;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAccountTargetingUnifiedAppStoreValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAccountTargetingUnifiedLimitTypeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAccountTargetingUnifiedModeValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAccountTargetingUnifiedObjectiveValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAccountTargetingUnifiedRegulatedCategoriesValues;
+use Thecodebunny\FacebookSdk\FacebookAds\Object\Values\AdAccountTargetingUnifiedWhitelistedTypesValues;
 
 /**
  * This class is auto-generated.
