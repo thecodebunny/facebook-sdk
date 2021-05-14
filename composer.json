@@ -8,13 +8,11 @@
     "homepage": "https://github.com/thecodebunny/facebook-sdk",
     "license": "MIT",
     "type": "library",
-    "authors": [
-        {
-            "name": "Hemang Vyas",
-            "email": "hemangvyas11@gmail.com",
-            "role": "Developer"
-        }
-    ],
+    "authors": [{
+        "name": "Hemang Vyas",
+        "email": "hemangvyas11@gmail.com",
+        "role": "Developer"
+    }],
     "require": {
         "php": "^7.4|^8.0",
         "illuminate/support": "^8.0"
